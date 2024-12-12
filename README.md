@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Nam, also known as Daru/Meik.
 - 🔭 I’m currently working on a fast paced cooking game named "Mimi Drink Stand".
+- Also working on some self-made ray tracer to practice C++ / Computer Graphic system.
 - 🌱 I’m currently learning Computer Science, speciliazing in game engine and computer graphic.
 - 📫 How to reach me: 
   - LinkedIn: https://www.linkedin.com/in/cuong-nam-nguyen-480583252/
